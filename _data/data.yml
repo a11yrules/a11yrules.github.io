@@ -1,0 +1,44 @@
+---
+- id: 1
+  series: podcast
+  title: ''
+  description: Amberley defines web accessibility as "building for the web in ways
+    that ensure it’s usable by everyone. There aren't barriers to use for anyone.
+    So, I would say it's about digital equal access, kind of along the same lines
+    as physical equal access. So, just putting people at the center of building for
+    the web."
+  audio:
+  - id: 88
+    part: 1
+    duration: '32:39'
+    downloadLink: https://a11yrules.com/podcast-download/539/e088-interview-with-amberley-romo-part-1.mp3?ref=download
+    date: '2019-08-07'
+  - id: 89
+    part: 2
+    duration: '24:00'
+    downloadLink: https://a11yrules.com/podcast-download/541/e089-interview-with-amberley-romo-part-2.mp3?ref=download
+    date: '2019-08-20'
+  guest:
+    name: Amberley Romo
+    photo: https://a11yrules.com/wp-content/uploads/2019/08/amberley-romo.jpeg
+    bio: I’m a software developer based in Austin, Texas in the U.S. And I’m currently
+      working on the Gatsby team. I touch a lot of different things, but I’m currently
+      aligned with the learning team.
+    twitter: amber1ey
+- id: 2
+  series: soundbites
+  title: JL Sorak talks about dyslexia and how sites handle mistakes
+  description: JL tells us about sites that don’t make it easy to avoid mistakes,
+    and don’t handle mistakes well, make it hard for folks who are dyslexic.
+  audio:
+    id: 0
+    part: 0
+    duration: '7:00'
+    downloadLink: https://a11yrules.com/podcast-download/555/jl-sorak-talks-about-dyslexia-and-how-sites-handle-mistakes.mp3?ref=download
+    date: '2019-09-10'
+  guest:
+    name: Jean Luc Sorak
+    photo: https://a11yrules.com/wp-content/uploads/2020/02/jl-sorak.jpg
+    bio: JL is a software engineer with Holiday Extras in the United Kingdom.
+    twitter: jlsorak
+

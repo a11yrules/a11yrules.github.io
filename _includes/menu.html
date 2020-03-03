@@ -1,0 +1,22 @@
+<div id="sidebar">
+    <div class="sidebar-header">
+        <h3><a href="/">Podcasts</a></h3>
+    </div>
+    <div id="dismiss">
+        <i class="fas fa-times fa-2x"></i>
+    </div>
+    <div class="container">
+        <div class="row">
+            <nav class="col-sm">
+                <ul class="list-unstyled components">
+                    {% for podcasts in site.data.data %}
+                    <li><a href="/podcasts/{{ podcasts.audio.id }}">{{ podcasts.guest.name }}</a></li>
+                    {% endfor %}
+                </ul>
+            </nav>
+            <div class="col-sm">
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt vel cum quibusdam saepe repudiandae necessitatibus ullam exercitationem. Odit molestiae accusamus nihil alias nam commodi tempore minus reiciendis ipsum? Labore, neque.</p>
+            </div>
+        </div>
+    </div>
+</div>

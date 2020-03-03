@@ -1,0 +1,20 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
+---
+
+<div class="container">
+<div class="row">
+{% for podcasts in site.data %}
+    <div>
+        <a href="/podcasts/{{ podcasts.id }}/">
+        <h2>{{ podcasts.id }}</h2>
+        <p>{{ podcasts.description }}</p>
+   </a>
+    </div>
+{% endfor %}
+</div>
+</div>
+

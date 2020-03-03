@@ -1,0 +1,24 @@
+[
+    {
+        "series" : "",
+        "title" : "",
+        "description" : "",
+        "audio" : [
+            {
+                "id" : 0,
+                "part" : 1,
+                "duration" : "00:00",
+                "downloadLink" : "",
+                "date" : "yyyy-mm-dd"
+            }
+        ],
+        "guest" : [
+            {
+                "name" : "",
+                "photo" : "",
+                "bio" : "",
+                "twitter" : ""
+            }
+        ]
+    }
+]
