@@ -1,0 +1,158 @@
+[
+	{
+		"title" : null,
+		"audio" : [
+			{
+				"id" : 94,
+				"part" : 1,
+				"duration" : "28:04",
+				"downloadLink" : "https://a11yrules.com/podcast-download/561/e094-interview-with-devon-persing-part-1.mp3?ref=download",
+				"date" : "2020-03-27",
+				"description" : "Devon Persing tells us that the compliance model doesn’t capture the whole picture of accessibility. And it feels like a separate thing from design/dev work.",
+			}
+		],
+		"guest" : [
+			{
+				"name" : "Devon Persing",
+				"photo" : "https://a11yrules.com/wp-content/uploads/2020/02/devon.jpg",
+				"bio" : "Devon is an accessibility specialist and educator. She works at Shopify.",
+				"twitter" : "devonpersing"
+			}
+		]
+	}, {
+		"title" : null,
+		"audio" : [
+			{
+				"id" : 92,
+				"part" : 1,
+				"duration" : "24:26",
+				"downloadLink" : "https://a11yrules.com/podcast-download/552/e092-interview-with-tony-coelho-part-1.mp3?ref=download",
+				"date" : "2020-02-26",
+				"description" : "Congressman Tony Coelho talks about his life with a disability, his journey of working for the People, and how he introduced the ADA."
+			}, {
+				"id" : 93,
+				"part" : 2,
+				"duration" : "23:47",
+				"downloadLink" : "https://a11yrules.com/podcast-download/557/e093-interview-with-tony-coelho-part-2.mp3?ref=download",
+				"date" : "2020-03-05",
+				"description" : "Congressman Tony Coelho tells us that people with disabilities must have the right to fail. Without failure you can’t learn from the mistake. Without failure there’s no growth. Without a right to fail, your growth is stunted."
+			}
+		],
+		"guest" : [
+			{
+				"name" : "Tony Coelho",
+				"photo" : "https://a11yrules.com/wp-content/uploads/2020/02/tony-coelho.jpg",
+				"bio" : "Former House Majority Whip. Lifelong disability rights advocate. Epilepsy patient. Disability Council Chair and DNC Member.",
+				"twitter" : "HonTonyCoelho"
+			}
+		]
+	}, {
+		"title" : null,
+		"audio" : [
+			{
+				"id" : 90,
+				"part" : 1,
+				"duration" : "24:00",
+				"downloadLink" : "https://a11yrules.com/podcast-download/541/e089-interview-with-amberley-romo-part-2.mp3?ref=download",
+				"date" : "2019-08-20",
+				"description" : "Emily states: “Hardest part of the job is coming up with solutions. It’s one thing to identify what’s wrong, it’s entirely another thing to give clients an alternative solution that’s accessible to start with but also reasonable for them to implement.”"
+			}, {
+				"id" : 91,
+				"part" : 2,
+				"duration" : "29:31",
+				"downloadLink" : "https://a11yrules.com/podcast-download/563/e091-interview-with-emily-lewis-part-2.mp3?ref=download",
+				"date" : "2019-08-27",
+				"description" : "Emily Lewis said: Accessibility is not about screen readers or keyboard navigation or code. It’s about people. And them being able to access information and resources, community… all of it"
+			}
+		],
+		"guest" : [
+			{
+				"name" : "Emily Lewis",
+				"photo" : "https://a11yrules.com/wp-content/uploads/2019/09/Screen-Shot-2019-09-07-at-9.51.23-AM.png",
+				"bio" : "Emily is a coder that works in accessibility and universal design. She’s also an author, writer, and editor.",
+				"twitter" : "emilylewis"
+			}
+		]
+	}, {
+		"title" : null,
+		"audio" : [
+			{
+				"id" : 88,
+				"part" : 1,
+				"duration" : "32:39",
+				"downloadLink" : "https://a11yrules.com/podcast-download/539/e088-interview-with-amberley-romo-part-1.mp3?ref=download",
+				"date" : "2019-08-07",
+				"description" : "Amberley defines web accessibility as “building for the web in ways that ensure it’s usable by everyone. There aren’t barriers to use for anyone. So, I would say it’s about digital equal access, kind of along the same lines as physical equal access. So, just putting people at the center of building for the web.”"
+			}, {
+				"id" : 89,
+				"part" : 2,
+				"duration" : "24:00",
+				"downloadLink" : "https://a11yrules.com/podcast-download/541/e089-interview-with-amberley-romo-part-2.mp3?ref=download",
+				"date" : "2019-08-20",
+				"description" : "About one thing everyone knows about accessibility… Amberley says: “I think everyone knows when something is not acceptable to them”"
+			}
+		],
+		"guest" : [
+			{
+				"name" : "Amberley Romo",
+				"photo" : "https://a11yrules.com/wp-content/uploads/2019/08/amberley-romo.jpeg",
+				"bio" : "I’m a software developer based in Austin, Texas in the U.S. And I’m currently working on the Gatsby team. I touch a lot of different things, but I’m currently aligned with the learning team.",
+				"twitter" : "amber1ey"
+			}
+		]
+	}, {
+		"title" : null,
+		"audio" : [
+			{
+				"id" : 86,
+				"part" : 1,
+				"duration" : "23:44",
+				"downloadLink" : "https://a11yrules.com/podcast-download/529/e086-interview-with-christopher-schmitt-part-1.mp3?ref=download",
+				"date" : "2019-07-09",
+				"description" : "Christopher says that for someone who likes Design so much, he didn’t realize how important good color contrast was, and how bad color contrast issues are."
+			}, {
+				"id" : 87,
+				"part" : 2,
+				"duration" : "23:57",
+				"downloadLink" : "https://a11yrules.ams3.digitaloceanspaces.com/podcast/episodes/E087-a11y-rules-christopher-schmitt-part-2.mp3?ref=download",
+				"date" : "2019-07-16",
+				"description" : "Christopher says it’s unfortunate that people become mindful about accessibility only/mostly through lawsuits."
+			}
+		],
+		"guest" : [
+			{
+				"name" : "Christopher Schmitt",
+				"photo" : "https://a11yrules.com/wp-content/uploads/2019/07/christopher-schmitt.jpeg",
+				"bio" : "Christopher is a designer, developer, author, speaker, event organizer, and beginning the accessibility work.",
+				"twitter" : "teleject"
+			}
+		]
+	}, {
+		"title" : null,
+		"audio" : [
+			{
+				"id" : 84,
+				"part" : 1,
+				"duration" : "25:44",
+				"downloadLink" : "https://a11yrules.com/podcast-download/525/e084-interview-with-jessica-ivins-part-1.mp3?ref=download",
+				"date" : "2019-06-14",
+				"description" : "Jessica and I ponder whether low-literacy could be considered a disability, and regardless of the answer, that factor needs to be taken into account when designing sites and content."
+			}, {
+				"id" : 85,
+				"part" : 2,
+				"duration" : "22:18",
+				"downloadLink" : "https://a11yrules.com/podcast-download/526/e085-interview-with-jessica-ivins-part-2.mp3?ref=download",
+				"date" : "2019-06-22",
+				"description" : "Jessica suggests that accessibility is a competitive advantage. The more people can use your product, the more likely they are to spend money on it."
+			}
+		],
+		"guest" : [
+			{
+				"name" : "Jessica Ivins",
+				"photo" : "https://a11yrules.com/wp-content/uploads/2019/06/jessica-ivins.jpg",
+				"bio" : "I’m a faculty member at Center Centre, the UX design school here in Chattanooga, Tennesse in the US, and we offer a 2-year full-time program that offers you as a student to be an industry ready designer. So you attend school for 2 years. We model the work… school environment more like a work environment, so you’re in school Monday through Friday, 9-5. About two-thirds of your time is spent working on real-world projects.",
+				"twitter" : "jessicaivins"
+			}
+		]
+	}
+]

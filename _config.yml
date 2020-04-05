@@ -36,10 +36,10 @@ port: 4001
 page_gen-dirs: true
 
 page_gen:
-  - data: 'data'
+  - data: 'soundbites'
     template: 'page'
-    name: 'series'
-    dir: 'podcasts'
+    name: 'title'
+    dir: 'soundbites'
 
 # Exclude from processing.
 # The following items will not be processed, by default.

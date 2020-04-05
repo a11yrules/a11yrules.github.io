@@ -1,0 +1,283 @@
+[
+	{
+		"title" : "JL Sorak talks about dyslexia and how sites handle mistakes",
+		"audio" : [
+			{
+				"id" : 14,
+				"part" : 1,
+				"duration" : " 7:03",
+				"downloadLink" : "https://a11yrules.com/podcast-download/555/jl-sorak-talks-about-dyslexia-and-how-sites-handle-mistakes.mp3?ref=download",
+				"date" : null,
+				"description" : "JL tells us about sites that don’t make it easy to avoid mistakes, and don’t handle mistakes well, make it hard for folks who are dyslexic."
+			}
+		],
+		"guest" : [
+			{
+				"name" : "Jean Luc Sorak",
+				"photo" : "https://a11yrules.com/wp-content/uploads/2020/02/jl-sorak.jpg",
+				"bio" : "JL is a software engineer with Holiday Extras in the United Kingdom.",
+				"twitter" : "JLSorak"
+			}
+		]
+	}, {
+		"title" : "Devon Persing talks about depression and brain fog",
+		"audio" : [
+			{
+				"id" : 13,
+				"part" : 1,
+				"duration" : "4:49",
+				"downloadLink" : "https://a11yrules.com/podcast-download/549/devon-persing-talks-about-depression-and-brain-fog.mp3?ref=download",
+				"date" : null,
+				"description" : "Devon tells us how depression can cause brain fog and it impacts everything she does on the web."
+			}
+		],
+		"guest" : [
+			{
+				"name" : "Devon Persing",
+				"photo" : "https://a11yrules.com/wp-content/uploads/2020/02/devon.jpg",
+				"bio" : "Devon is an accessibility specialist and educator. She works at Shopify.",
+				"twitter" : "devonpersing"
+			}
+		]
+	}, {
+		"title" : "Patrick Burke talks about headings and screen readers",
+		"audio" : [
+			{
+				"id" : 12,
+				"part" : 1,
+				"duration" : "12:28",
+				"downloadLink" : "https://a11yrules.com/podcast-download/547/patrick-burke-talks-about-headings-and-screen-readers.mp3?ref=download",
+				"date" : null,
+				"description" : "Patrick tells us that having headings that describe the content on the page is critical for screen reader users. He feels proper hierarchy is nice, but not as important."
+			}
+		],
+		"guest" : [
+			{
+				"name" : "Patrick Burke",
+				"photo" : "https://a11yrules.com/wp-content/uploads/2020/02/pat-burke.jpg",
+				"bio" : "Patrick Burke is a screen reader user.",
+				"twitter" : "PatTwit"
+			}
+		]
+	}, {
+		"title" : "Sveta Kouznetsova talks about the importance of transcripts and captions",
+		"audio" : [
+			{
+				"id" : 11,
+				"part" : 1,
+				"duration" : "8:12",
+				"downloadLink" : "https://a11yrules.com/podcast-download/531/sveta-kouznetsova-talks-about-the-importance-of-transcripts-and-captions.mp3?ref=download",
+				"date" : null,
+				"description" : "Sveta tells us “We are often told that bad captions are better than nothing, but they cause cognitive dissonance for us [deaf folks].”"
+			}
+		],
+		"guest" : [
+			{
+				"name" : "Svetlana Kouznetsova",
+				"photo" : "https://a11yrules.com/wp-content/uploads/2019/07/sveta-kouznetsova.jpg",
+				"bio" : "Consultant, Author, Speaker: I help businesses make UX & accessibility 2nd nature for their products, media, events.",
+				"twitter" : "svknyc"
+			}
+		]
+	}, {
+		"title" : "EJ Mason talks about CP and how cramps impact internet use",
+		"audio" : [
+			{
+				"id" : 10,
+				"part" : 1,
+				"duration" : "5:40",
+				"downloadLink" : "https://a11yrules.com/podcast-download/521/ej-mason-talks-about-cp-and-how-cramps-impact-internet-use.mp3?ref=download",
+				"date" : null,
+				"description" : "EJ Tells us about how Cerebral Palsy and how it may cause cramps, forcing him to shift how he interacts with devices."
+			}
+		],
+		"guest" : [
+			{
+				"name" : "EJ Mason",
+				"photo" : "https://a11yrules.com/wp-content/uploads/2019/06/ej-mason.jpg",
+				"bio" : "EJ Mason is an accessibility specialist with Pearson. He also happens to have Cerebral Palsy, is hard of hearing, and has undiagnosed ADHD",
+				"twitter" : "codeability"
+			}
+		]
+	}, {
+		"title" : "Mel Chua talks about speech input and captions as a Deaf individual",
+		"audio" : [
+			{
+				"id" : 9,
+				"part" : 1,
+				"duration" : "14:34",
+				"downloadLink" : "https://a11yrules.com/podcast-download/517/mel-chua-talks-about-speech-input-and-captions-as-a-deaf-individual.mp3?ref=download",
+				"date" : null,
+				"description" : "Mel Chua tells us that the onus shouldn’t be on her to request accessibility accommodations – it should be there from the start. And she shouldn’t be made to feel as if providing accommodations is something generous the service provider is doing."
+			}
+		],
+		"guest" : [
+			{
+				"name" : "Mel Chua",
+				"photo" : "https://a11yrules.com/wp-content/uploads/2019/05/mel-chua.jpg",
+				"bio" : "Mel Chua is a Deaf tech worker who describes herself as a hacker.",
+				"twitter" : "mchua"
+			}
+		]
+	}, {
+		"title" : "Greg Norman talks about content overload and cognitive impairments",
+		"audio" : [
+			{
+				"id" : 8,
+				"part" : 1,
+				"duration" : "7:43",
+				"downloadLink" : "https://a11yrules.com/podcast-download/484/greg-norman-talks-about-content-overload-and-cognitive-impairments.mp3?ref=download",
+				"date" : null,
+				"description" : "Greg tells us that pages with too much text or too many moving elements make it nearly impossible for him to access the content."
+			}
+		],
+		"guest" : [
+			{
+				"name" : "Greg Norman",
+				"photo" : "https://a11yrules.com/wp-content/uploads/2019/03/greg-norman.jpg",
+				"bio" : "Web consultant looking for projects to rescue.",
+				"twitter" : null
+			}
+		]
+	}, {
+		"title" : "Cherry Thompson talks about cognitive impairments and web accessibility",
+		"audio" : [
+			{
+				"id" : 7,
+				"part" : 1,
+				"duration" : "8:06",
+				"downloadLink" : "https://a11yrules.com/podcast-download/468/cherry-thompson-talks-about-cognitive-impairments-and-web-accessibility.mp3?ref=download",
+				"date" : null,
+				"description" : null
+			}
+		],
+		"guest" : [
+			{
+				"name" : "Cherry Thompson",
+				"photo" : "https://a11yrules.com/wp-content/uploads/2019/02/cherry-thompson.jpg",
+				"bio" : "Cherry Thompson is an accessibility and inclusion consultant who works in the game industry.",
+				"twitter" : "cherryrae"
+			}
+		]
+	}, {
+		"title" : "Ian Littman talks about orange and zoom restrictions",
+		"audio" : [
+			{
+				"id" : 6,
+				"part" : 1,
+				"duration" : "6:13",
+				"downloadLink" : "https://a11yrules.com/podcast-download/353/ian-littman-talks-about-orange-and-zoom-restrictions.mp3?ref=download",
+				"date" : null,
+				"description" : "Ian, a developer, tells us how some color combinations, notably orange and grey, can make content disappear for him. He also explains how restricting zoom on mobile pages mean he can’t read the content on those pages."
+			}
+		],
+		"guest" : [
+			{
+				"name" : "Ian Littman",
+				"photo" : "https://a11yrules.com/wp-content/uploads/2018/06/ian-littman.jpeg",
+				"bio" : "Ian is a developer and conference organizer who happens to be very nearsighted and color blind.",
+				"twitter" : "ansltx"
+			}
+		]
+	}, {
+		"title" : "Michelle McQuigge tells us why she can’t do her job without alt text",
+		"audio" : [
+			{
+				"id" : 5,
+				"part" : 1,
+				"duration" : "8:10",
+				"downloadLink" : "https://a11yrules.com/podcast-download/346/michelle-mcquigge-tells-us-why-she-cant-do-her-job-without-alt-text.mp3?ref=download",
+				"date" : null,
+				"description" : "Michelle McQuigge is a blind reporter with the Canadian Press. Many organizations do press release with images of text on Twitter, making her job impossible. She also wishes designers and developers to know that if you don’t implement accessibility, you’re going to lose big!"
+			}
+		],
+		"guest" : [
+			{
+				"name" : "Michelle McQuigge",
+				"photo" : "https://a11yrules.com/wp-content/uploads/2018/05/michelle-mcquigge.jpg",
+				"bio" : "Michelle is “totally blind”. She has been a reporter with the Canadian Press for the last 12 years. She is also a contributor to AMI Audio.",
+				"twitter" : "mich_mcq"
+			}
+		]
+	}, {
+		"title" : "Taylor Hunt speaks about the impact of ADHD",
+		"audio" : [
+			{
+				"id" : 4,
+				"part" : 1,
+				"duration" : "6:30",
+				"downloadLink" : "https://a11yrules.com/podcast-download/276/taylor-hunt-speaks-about-the-impact-of-adhd.mp3?ref=download",
+				"date" : null,
+				"description" : "Talking with Taylor Hunt, who calls himself a webspinner and a lapsed artist. He has ADHD and tells us about the impact of animations and no underlines on links."
+			}
+		],
+		"guest" : [
+			{
+				"name" : "Taylor Hunt",
+				"photo" : "https://a11yrules.com/wp-content/uploads/2018/04/taylor-hunt.jpg",
+				"bio" : "Taylor describes himself as a webspinner and lapsed artist. He also happen to have ADHD.",
+				"twitter" : "tigt_"
+			}
+		]
+	}, {
+		"title" : "Kirsty Major talks about using a screen reader to navigate the web",
+		"audio" : [
+			{
+				"id" : 3,
+				"part" : 1,
+				"duration" : "8:18",
+				"downloadLink" : "https://a11yrules.com/podcast-download/265/kirsty-major-talks-about-using-a-screen-reader-to-navigate-the-web.mp3?ref=download",
+				"date" : null,
+				"description" : "Talking with Kirsty Major, who is an online English teacher who specializes in business English for adults. In her spare time, whatever she has of it, she runs Unseen Beauty, a beauty and lifestyle blog from the perspective of someone who’s blind. Kirsty has two blogs, two podcasts, and she’s working on her second book."
+			}
+		],
+		"guest" : [
+			{
+				"name" : "Kirsty Major",
+				"photo" : "https://a11yrules.com/wp-content/uploads/2018/04/kirsty-major.jpg",
+				"bio" : "Kirsty is an online English teacher who specialises in business English for adults. In her spare time she runs Unseen Beauty, a beauty and lifestyle blog from the perspective of someone who is blind. Kirsty has two blogs, two podcasts, and she’s working on her second book.",
+				"twitter" : "EnglishWithK"
+			}
+		]
+	}, {
+		"title" : "Desi Mazdur speaks about searching web pages with speech recognition software",
+		"audio" : [
+			{
+				"id" : 2,
+				"part" : 1,
+				"duration" : "7:38",
+				"downloadLink" : "https://a11yrules.com/podcast-download/231/desi-mazdur-speaks-about-searching-web-pages-with-speech-recognition-software.mp3?ref=download",
+				"date" : null,
+				"description" : "Desi Mazdur talks to us about having RSI and relying on speech recognition software to navigate the web."
+			}
+		],
+		"guest" : [
+			{
+				"name" : "Desi Mazdur",
+				"photo" : "https://a11yrules.com/wp-content/uploads/2018/03/desi-mazdur.jpg",
+				"bio" : "Desi used to work as a programmer but due to his disability is no longer able to work. He is an avid user of Dragon Naturally Speaking, a speech recognition software.",
+				"twitter" : "rver0"
+			}
+		]
+	}, {
+		"title" : "Denis Boudreau speaks about color blindness and accessibility",
+		"audio" : [
+			{
+				"id" : 1,
+				"part" : 1,
+				"duration" : "8:11",
+				"downloadLink" : "https://a11yrules.com/podcast-download/128/denis-boudreau-speaks-about-color-blindness-and-accessibility.mp3?ref=download",
+				"date" : null,
+				"description" : "In this introductory episode of the A11y Rules Soundbite, Denis Boudreau speaks about color blindness and how it affects his day-to-day activities on the web."
+			}
+		],
+		"guest" : [
+			{
+				"name" : "Denis Boudreau",
+				"photo" : "https://a11yrules.com/wp-content/uploads/2018/01/denis-boudreau.jpg",
+				"bio" : "I’m from Montreal, Canada. I work for Deque Systems. I’ve been working in Accessibility for about 17 years, doing mostly consulting, and training, and strategy with different clients, and that’s about it.",
+				"twitter" : "dboudreau"
+			}
+		]
+	}
+]

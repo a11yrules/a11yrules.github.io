@@ -7,14 +7,19 @@ layout: home
 
 <div class="container">
 <div class="row">
-{% for podcasts in site.data %}
-    <div>
-        <a href="/podcasts/{{ podcasts.id }}/">
-        <h2>{{ podcasts.id }}</h2>
-        <p>{{ podcasts.description }}</p>
+{% for soundbites in site.data.soundbites %}
+    <div class="col-4">
+        <a href="/soundbites/{{ soundbites.audio.id }}/">
+		<h2 class="h4">{{ soundbites.title }}</h2>
+		<p>{{ soundbites.data.audio.description }}</p>
    </a>
     </div>
 {% endfor %}
+<ul>
+	{% for id in site.data.soundbites %}
+	<li>{{ id.audio.id }}</li>
+	{% endfor %}
+</ul>
 </div>
 </div>
 
