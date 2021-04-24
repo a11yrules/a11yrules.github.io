@@ -7,11 +7,13 @@ layout: home
 
 <div class="container">
 <div class="row">
-{% for soundbites in site.data.soundbites %}
+{% for soundbite in site.data.soundbites %}
     <div class="col-4">
         <a href="/soundbites/{{ soundbites.audio.id }}/">
-		<h2 class="h4">{{ soundbites.title }}</h2>
-		<p>{{ soundbites.data.audio.description }}</p>
+		<h2 class="h4">{{ soundbite.title }}</h2>
+		{% for audio in soundbite.audio %}
+		<p>{{ audio.description }}</p>
+		{% endfor %}
    </a>
     </div>
 {% endfor %}
