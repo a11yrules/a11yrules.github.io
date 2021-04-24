@@ -1,21 +1,21 @@
 {
-  "name": "inklusiv.ca",
+  "name": "a11yrules",
   "version": "1.0.0",
-  "description": "Package for the inlusiv.ca website",
+  "description": "Package for the a11yrules.com website",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/inklusiv/inklusiv.ca.git"
+    "url": "git+https://github.com/a11yrules/a11yrules.github.io.git"
   },
-  "author": "Denis Boudreau",
+  "author": "Nic Steenhout",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/inklusiv/inklusiv.ca/issues"
+    "url": "https://github.com/a11yrules/a11yrules.github.io/issues"
   },
-  "homepage": "https://github.com/inklusiv/inklusiv.ca#readme",
+  "homepage": "https://github.com/a11yrules/a11yrules.github.io/#readme",
   "devDependencies": {
     "bootstrap": "^4.4.1"
   }
